@@ -26,6 +26,8 @@ organizations:
   - name: The Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP), Chinese Academy of Sciences
     url: http://english.ciomp.cas.cn/
 
+motto: Fix the cause, not the symptom. — Steve Maguire
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
