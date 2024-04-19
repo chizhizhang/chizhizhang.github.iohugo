@@ -7,7 +7,7 @@ name_pronunciation: Chi Zhi Cheung
 
 # Full name (for SEO)
 first_name: Chris
-last_name: Zhi
+last_name: Zhang
 
 # Status emoji
 status:
@@ -37,9 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Computer-Aid Engineering
+      institution: Greenwich University
+      year: 2019
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
