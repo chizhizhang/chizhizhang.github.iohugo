@@ -3,7 +3,7 @@
 title: Dr Chizhi Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Chi Zhi Cheung
+name_pronunciation: Chris Zhang
 
 # Full name (for SEO)
 first_name: Chris
@@ -22,8 +22,9 @@ role: Professor of Digital Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Chinese Academy of Sciences (UCAS)
+    url: https://english.ucas.ac.cn/
   - name: The Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP), Chinese Academy of Sciences
-    url: https://english.ciomp.ac.cn/
+    url: http://english.ciomp.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -38,14 +39,14 @@ interests:
 education:
   courses:
     - course: PhD in Computer-Aid Engineering
-      institution: Greenwich University
-      year: 2019
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: University of Greenwich
+      year: 2014-2019
+    - course: MSc in Engineering
+      institution: University of Bradford
+      year: 2013-2014
+    - course: BSc in Engineering
+      institution: Chongqing University
+      year: 2008-2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
